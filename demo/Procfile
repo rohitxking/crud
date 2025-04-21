@@ -1,0 +1,1 @@
+echo 'web: gunicorn crud.wsgi' > Procfile
